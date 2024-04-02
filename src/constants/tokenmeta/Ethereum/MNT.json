@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+        "decimals": 18,
+        "name": "Mantle",
+        "symbol": "MNT",
+        "total_supply": "10000000000000000000000000000",
+        "logos": [{
+            "uri": "",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "",
+            "url": ""
+        }]
+    }
+}

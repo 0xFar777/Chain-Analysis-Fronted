@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+        "decimals": 18,
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "total_supply": "7613249956717789526272031",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xb50721bcf8d664c30412cfbc6cf7a15145234ad1.jpeg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://arbitrum.io/"
+        }]
+    }
+}

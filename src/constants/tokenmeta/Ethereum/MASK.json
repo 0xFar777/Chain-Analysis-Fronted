@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+        "decimals": 18,
+        "name": "Mask Network",
+        "symbol": "MASK",
+        "total_supply": "100000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x69af81e73a73b40adf4f3d4223cd9b1ece623074.jpg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://mask.io/"
+        }]
+    }
+}

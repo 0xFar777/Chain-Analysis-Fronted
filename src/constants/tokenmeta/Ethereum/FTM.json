@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "decimals": 18,
+        "name": "Fantom Token",
+        "symbol": "FTM",
+        "total_supply": "2138153790589934657020549375",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x4e15361fd6b4bb609fa63c81a2be19d873717870.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://fantom.foundation/"
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "decimals": 18,
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "total_supply": "999988708439840341004773770338102",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png",
+            "width": 245,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://shibatoken.com/"
+        }]
+    }
+}

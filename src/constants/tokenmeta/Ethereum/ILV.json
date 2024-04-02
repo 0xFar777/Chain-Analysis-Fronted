@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+        "decimals": 18,
+        "name": "Illuvium",
+        "symbol": "ILV",
+        "total_supply": "7709310879652257371548274",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x767fe9edc9e0df98e07454847909b5e959d7ca0e.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://illuvium.io/"
+        }]
+    }
+}

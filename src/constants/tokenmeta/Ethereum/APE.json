@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+        "decimals": 18,
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x4d224452801aced8b2f0aebe155379bb5d594381.jpg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://apecoin.com/"
+        }]
+    }
+}

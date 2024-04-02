@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "decimals": 18,
+        "name": "0x Protocol Token",
+        "symbol": "ZRX",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xe41d2489571d322189246dafa5ebde1f4699f498.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.0xprotocol.org/"
+        }]
+    }
+}

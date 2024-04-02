@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+        "decimals": 18,
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "total_supply": "36230552818240454844693309822265",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xc669928185dbce49d2230cc9b0979be6dc797957.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.bittorrent.com/btt/"
+        }]
+    }
+}

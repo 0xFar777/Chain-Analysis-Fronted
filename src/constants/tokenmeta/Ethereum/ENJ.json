@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+        "decimals": 18,
+        "name": "Enjin Coin",
+        "symbol": "ENJ",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://enjin.io/"
+        }]
+    }
+}

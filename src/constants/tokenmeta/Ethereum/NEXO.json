@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+        "decimals": 18,
+        "name": "Nexo",
+        "symbol": "NEXO",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://nexo.com/"
+        }]
+    }
+}

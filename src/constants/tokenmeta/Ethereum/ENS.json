@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+        "decimals": 18,
+        "name": "Ethereum Name Service",
+        "symbol": "ENS",
+        "total_supply": "100000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72.jpg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://ens.domains/"
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "decimals": 18,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://chain.link/"
+        }]
+    }
+}

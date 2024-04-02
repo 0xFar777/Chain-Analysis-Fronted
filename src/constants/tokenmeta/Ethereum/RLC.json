@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+        "decimals": 9,
+        "name": "iEx.ec Network Token",
+        "symbol": "RLC",
+        "total_supply": "86999784986845492",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x607f4c5bb672230e8672085532f7e901544a7375.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "http://iex.ec/"
+        }]
+    }
+}

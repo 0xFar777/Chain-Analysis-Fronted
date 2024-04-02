@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+        "decimals": 18,
+        "name": "Convex Token",
+        "symbol": "CVX",
+        "total_supply": "98378844705412237302812011",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.convexfinance.com/"
+        }]
+    }
+}

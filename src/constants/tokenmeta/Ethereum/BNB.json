@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "decimals": 18,
+        "name": "BNB",
+        "symbol": "BNB",
+        "total_supply": "392908135046413249272161",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.binance.com/"
+        }]
+    }
+}

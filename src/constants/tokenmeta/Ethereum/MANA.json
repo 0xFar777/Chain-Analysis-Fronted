@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+        "decimals": 18,
+        "name": "Decentraland MANA",
+        "symbol": "MANA",
+        "total_supply": "2193179327320146244857883456",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://decentraland.org/"
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "decimals": 18,
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://stake.lido.fi/"
+        }]
+    }
+}

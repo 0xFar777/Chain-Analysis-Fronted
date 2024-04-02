@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "decimals": 18,
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "total_supply": "10681115202268262065559711988",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://thegraph.com/"
+        }]
+    }
+}

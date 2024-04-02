@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "decimals": 18,
+        "name": "LoopringCoin V2",
+        "symbol": "LRC",
+        "total_supply": "1373873397442457437622945100",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png",
+            "width": 250,
+            "height": 219
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://loopring.org/"
+        }]
+    }
+}

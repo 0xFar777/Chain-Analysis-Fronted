@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+        "decimals": 18,
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "total_supply": "1965661957207522867026612977",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
+            "width": 248,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.curve.fi/"
+        }]
+    }
+}

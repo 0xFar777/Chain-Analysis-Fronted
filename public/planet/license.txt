@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crystal Planet
+* source:	https://sketchfab.com/3d-models/crystal-planet-7a95246b6eda448d98a236b91474bcbb
+* author:	ahingel (https://sketchfab.com/ahingel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crystal Planet" (https://sketchfab.com/3d-models/crystal-planet-7a95246b6eda448d98a236b91474bcbb) by ahingel (https://sketchfab.com/ahingel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

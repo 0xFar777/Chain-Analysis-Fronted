@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "decimals": 18,
+        "name": "Compound",
+        "symbol": "COMP",
+        "total_supply": "10000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xc00e94cb662c3520282e6f5717214004a7f26888.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://compound.finance/governance/comp"
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "decimals": 18,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://uniswap.org/"
+        }]
+    }
+}

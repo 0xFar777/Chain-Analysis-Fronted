@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "decimals": 18,
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "total_supply": "320903136088773603337882496",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.synthetix.io/"
+        }]
+    }
+}

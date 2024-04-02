@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+        "decimals": 18,
+        "name": "Quant",
+        "symbol": "QNT",
+        "total_supply": "45467000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x4a220e6096b25eadb88358cb44068a3248254675.jpg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.quant.network"
+        }]
+    }
+}

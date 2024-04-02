@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "decimals": 18,
+        "name": "SushiToken",
+        "symbol": "SUSHI",
+        "total_supply": "249304405216780225665954474",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://sushi.com/"
+        }]
+    }
+}

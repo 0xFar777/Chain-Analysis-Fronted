@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "decimals": 18,
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "total_supply": "99681752712890886062098700",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://frax.finance"
+        }]
+    }
+}

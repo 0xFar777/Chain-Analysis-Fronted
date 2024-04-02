@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "decimals": 18,
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "total_supply": "1500000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x111111111117dc0aa78b770fa6a738034120c302.png",
+            "width": 243,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://1inch.io/"
+        }]
+    }
+}

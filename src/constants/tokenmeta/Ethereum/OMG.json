@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+        "decimals": 18,
+        "name": "OMGToken",
+        "symbol": "OMG",
+        "total_supply": "140245398245132780789239631",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.jpg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://omg.network/"
+        }]
+    }
+}

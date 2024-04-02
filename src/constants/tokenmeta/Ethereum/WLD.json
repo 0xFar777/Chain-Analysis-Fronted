@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x163f8c2467924be0ae7b5347228cabf260318753",
+        "decimals": 18,
+        "name": "Worldcoin",
+        "symbol": "WLD",
+        "total_supply": "2500000000000000000000000000",
+        "logos": [{
+            "uri": "",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "",
+            "url": ""
+        }]
+    }
+}

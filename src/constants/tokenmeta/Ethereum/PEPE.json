@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+        "decimals": 18,
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "total_supply": "420689899999994793099999999998759",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x6982508145454ce325ddbe47a25d4ec3d2311933.jpeg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://www.pepe.vip/"
+        }]
+    }
+}

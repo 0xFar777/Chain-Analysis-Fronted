@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+        "decimals": 18,
+        "name": "Render Token",
+        "symbol": "RNDR",
+        "total_supply": "531024271388795966459575559",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://rendertoken.com/"
+        }]
+    }
+}

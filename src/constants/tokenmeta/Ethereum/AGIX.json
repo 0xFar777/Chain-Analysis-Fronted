@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+        "decimals": 8,
+        "name": "SingularityNET Token",
+        "symbol": "AGIX",
+        "total_supply": "112550999508763222",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x5b7533812759b45c2b44c19e320ba2cd2681b542.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://singularitynet.io/"
+        }]
+    }
+}

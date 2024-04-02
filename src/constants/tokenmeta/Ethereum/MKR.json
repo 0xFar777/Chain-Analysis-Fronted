@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "decimals": 18,
+        "name": "Maker",
+        "symbol": "MKR",
+        "total_supply": "977631036950888222010062",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://makerdao.com/"
+        }]
+    }
+}

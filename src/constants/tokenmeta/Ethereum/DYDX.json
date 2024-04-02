@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "contract_address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+        "decimals": 18,
+        "name": "dYdX",
+        "symbol": "DYDX",
+        "total_supply": "1000000000000000000000000000",
+        "logos": [{
+            "uri": "https://static.chainbase.online/logo/ethereum/0x92d6c1e31e14520e676a687f0a93788b716beff5.jpg",
+            "width": 250,
+            "height": 250
+        }],
+        "urls": [{
+            "name": "homepage",
+            "url": "https://dydx.exchange/r/KUCMNNHD"
+        }]
+    }
+}
